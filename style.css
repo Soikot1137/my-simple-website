@@ -1,0 +1,30 @@
+* {
+    margin: 20px;
+
+}
+
+#first {
+    background-color: rgba(67, 255, 255, 0.507);
+    border: 2px solid rgb(121, 199, 121);
+    margin: 7px;
+    text-align: justify;
+    padding: 8px;
+    border-radius: 40px 00px;
+    box-shadow: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    text-decoration: underline black;
+
+}
+
+#secend {
+    background-color: rgba(42, 255, 77, 0.582);
+    border: 2px solid;
+    margin: 7px;
+    padding: 5px;
+    text-align: justify;
+    border-radius: 0px 40px;
+}
